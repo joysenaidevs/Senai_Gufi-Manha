@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GufiSenai.Dominio", "GufiSenai.Dominio\GufiSenai.Dominio.csproj", "{7CB249CB-F938-4508-8AD2-C876BAF3D06D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GufiSenai.Dominio", "GufiSenai.Dominio\GufiSenai.Dominio.csproj", "{7C1294C2-4DBD-4AB3-BFF3-2DC82D13B594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GufiSenai.Comum", "GufiSenai.Comum\GufiSenai.Comum.csproj", "{32C9C052-A59B-46DA-B8A4-2183A5F228BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7CB249CB-F938-4508-8AD2-C876BAF3D06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7CB249CB-F938-4508-8AD2-C876BAF3D06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7CB249CB-F938-4508-8AD2-C876BAF3D06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7CB249CB-F938-4508-8AD2-C876BAF3D06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1294C2-4DBD-4AB3-BFF3-2DC82D13B594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1294C2-4DBD-4AB3-BFF3-2DC82D13B594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1294C2-4DBD-4AB3-BFF3-2DC82D13B594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1294C2-4DBD-4AB3-BFF3-2DC82D13B594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C9C052-A59B-46DA-B8A4-2183A5F228BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C9C052-A59B-46DA-B8A4-2183A5F228BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C9C052-A59B-46DA-B8A4-2183A5F228BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C9C052-A59B-46DA-B8A4-2183A5F228BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

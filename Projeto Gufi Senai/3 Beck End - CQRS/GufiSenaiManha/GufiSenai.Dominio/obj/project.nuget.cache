@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EIj5vHJyw6tmkup9CmDk/9cV08rJCrzGZhQR+fedu4hmumPoc54awRv7ka3XyZ00yd6AX97IycQpOp0nTumfbA==",
+  "dgSpecHash": "nV1zNdCQScWIXT5h4zf4/mqv8Ul4HKsCbm93evmioszlGXRYT2ZfNNIyLM0TaH+e47HDYn7MTKStI29CZ2k5kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\52391129831\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\3 Beck End - CQRS\\GufiSenaiManha\\GufiSenai.Dominio\\GufiSenai.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\DEV\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\3 Beck End - CQRS\\GufiSenaiManha\\GufiSenai.Dominio\\GufiSenai.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

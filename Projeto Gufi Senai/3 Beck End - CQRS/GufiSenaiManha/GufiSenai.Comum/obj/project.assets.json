@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEV\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\3 Beck End - CQRS\\GufiSenaiManha\\GufiSenai.Dominio\\GufiSenai.Dominio.csproj",
-      "projectName": "GufiSenai.Dominio",
-      "projectPath": "C:\\Users\\DEV\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\3 Beck End - CQRS\\GufiSenaiManha\\GufiSenai.Dominio\\GufiSenai.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\DEV\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\3 Beck End - CQRS\\GufiSenaiManha\\GufiSenai.Comum\\GufiSenai.Comum.csproj",
+      "projectName": "GufiSenai.Comum",
+      "projectPath": "C:\\Users\\DEV\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\3 Beck End - CQRS\\GufiSenaiManha\\GufiSenai.Comum\\GufiSenai.Comum.csproj",
       "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEV\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\3 Beck End - CQRS\\GufiSenaiManha\\GufiSenai.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\DEV\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\3 Beck End - CQRS\\GufiSenaiManha\\GufiSenai.Comum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
