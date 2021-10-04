@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zr6brRb8CHq72g4Ib4bx9lMV7YPvIh/HeJOifFH14eiae3kcAS20kkEv+dbzSqKBnMcPxy+k4U0saOPLHUgA2w==",
+  "dgSpecHash": "GHa3REZy7UPzuQ147Qc11pbd4kWgPHycrnT7qS3vI7ZgkwCi/a47ZANPci3Bu+HhkFNaj2lxOCsXORDswPVV+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joyce\\Desktop\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\senai_gufi_webApi.csproj",
+  "projectFilePath": "C:\\Users\\Joyce\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\senai_gufi_webApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joyce\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Joyce\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.10\\microsoft.aspnetcore.authentication.jwtbearer.5.0.10.nupkg.sha512",

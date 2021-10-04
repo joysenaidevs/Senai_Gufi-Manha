@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joyce\\Desktop\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\senai_gufi_webApi.csproj": {}
+    "C:\\Users\\Joyce\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\senai_gufi_webApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joyce\\Desktop\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\senai_gufi_webApi.csproj": {
+    "C:\\Users\\Joyce\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\senai_gufi_webApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joyce\\Desktop\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\senai_gufi_webApi.csproj",
+        "projectUniqueName": "C:\\Users\\Joyce\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\senai_gufi_webApi.csproj",
         "projectName": "senai_gufi_webApi",
-        "projectPath": "C:\\Users\\Joyce\\Desktop\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\senai_gufi_webApi.csproj",
+        "projectPath": "C:\\Users\\Joyce\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\senai_gufi_webApi.csproj",
         "packagesPath": "C:\\Users\\Joyce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joyce\\Desktop\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\obj\\",
+        "outputPath": "C:\\Users\\Joyce\\Desktop\\Senai_Gufi-Manha\\Projeto Gufi Senai\\2 Sprint - Beck-End\\senai_gufi_webApi\\senai_gufi_webApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
