@@ -51,7 +51,7 @@ namespace senai_gufi_webApi.Repositories
             if (eventoAtualizado.IdTipoEvento > 0)
             {
                 // Atribui os novos valores ao campos existentes
-                eventoBuscado.IdTipoEvento = eventoAtualizado.IdTipoEvento
+                eventoBuscado.IdTipoEvento = eventoAtualizado.IdTipoEvento;
             }
         }
 
